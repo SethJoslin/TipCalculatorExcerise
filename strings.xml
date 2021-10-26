@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="result">Tip: $%1$s, Total Bill: $%2$s</string>
+</resources>
